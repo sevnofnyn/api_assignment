@@ -1,0 +1,49 @@
+body{
+	/*margin-left: 25px;*/
+  margin-top: 40px;
+  margin-left: 50px;
+	font-family: sans-serif;
+ 
+ color: #FAF0E6;
+ background-color: gray;
+
+
+}	
+
+div {
+  /* margin: 0 22%;*/
+   width: 60em;
+   color: orange;
+   padding-top: 20px;
+   font-size: 18px;
+   background-color: gray;
+}
+
+
+h1{
+  
+  font-weight: lighter;
+  color: #FAF0E6;
+}
+
+.corner{
+  border-radius: 15px;
+ } 
+
+p {
+margin-top: 15px;
+/*margin-bottom: 15px;*/
+  font-size: 14px;
+  color: #FAF0E6;
+ /* margin: 0 5%;*/
+   width: 40em;
+
+}
+
+.author{
+
+  font-size: 16px;
+  color: orange;
+  font-weight: lighter;
+}
+
